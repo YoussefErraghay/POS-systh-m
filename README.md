@@ -27,8 +27,8 @@ XAMPP (optionnel pour test local rapide)
 🚀 Installation du projet
 
 1-Cloner le dépôt Git
-git clone https://github.com/............
-cd nom-du-repo
+git clone https://github.com/YoussefErraghay/POS-systh-m.git
+cd POS-systh-m.git
 
 2-Installer les dépendances PHP
 composer install
